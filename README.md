@@ -9,3 +9,5 @@ Adding a line for rebasing example, then more changes.
 Sample website with plenty of files for demos
 
 Please fork this repository and then issue Pull Requests for review.
+
+All riguts
